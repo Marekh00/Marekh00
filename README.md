@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+:octocat:
+😭 🐙 
 
 **Marekh00/Marekh00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
