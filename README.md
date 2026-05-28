@@ -1,4 +1,4 @@
-## Hi there 👋:octocat:
+## Hi there 👋 :octocat:
 
 My name is Marius
 I'm a first year student on a bachelor in chemistry at NTNU
