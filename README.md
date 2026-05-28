@@ -1,16 +1,19 @@
-## Hi there 👋
-:octocat:
-😭 🐙 
+## Hi there 👋:octocat:
 
-**Marekh00/Marekh00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Marius
+I'm a first year student on a bachelor in chemistry at NTNU
 
-Here are some ideas to get you started:
+### Even though it has yet to be relevant for my study, I'm interested in:
+- Linear algebra
+- Numerical methods
+- Ordinary and partial differential equations
+- Shader-programming
+- Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Languages I've learned, and whom I'm constantly learning and becoming better at are:
+- Julia
+- Python
+- C++
+- openGl
+- HTML
+- CSS
